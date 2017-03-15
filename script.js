@@ -3,8 +3,8 @@ var fs = require('fs');
 
 var travel_time;
 
-var home = "12+Greenways+Road,+Cape+Town";
-var work = "32+Darters+Road,+Cape+Town";
+var home = "Number+StreetName,+City";
+var work = "Number+StreetName,+City";
 
 var options = {
   host: 'maps.googleapis.com',
